@@ -10,7 +10,7 @@ keywords:
 home: https://www.postgresql.org/
 icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg
 source:
-  - https://github.com/cetic/helm-postgresql
+  - https://github.com/Kanchikumar-glenise/helm-postgresql
 maintainers:
   - name: kanchikumar
   - name: hariharan
