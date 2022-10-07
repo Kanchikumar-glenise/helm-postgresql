@@ -12,5 +12,5 @@ icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.s
 source:
   - https://github.com/cetic/helm-postgresql
 maintainers:
-  - name: alexnuttinck
-  - name: AyadiAmen
+  - name: kanchikumar
+  - name: hariharan

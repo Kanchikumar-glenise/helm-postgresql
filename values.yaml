@@ -35,9 +35,9 @@ service:
 
 ## Postgresql values
 postgresql:
-  username: postgres
-  password: postgres
-  database: postgres
+  username: kongdb_user
+  password: jeJb451&82Vd!^9D
+  database: kongdb
   port: 5432
   # initdbArgs 
   # initdbWalDir
